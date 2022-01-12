@@ -5,4 +5,4 @@ requires = [
     "pybind11>=2.6",
     "numpy",
 ]
-build-backend = "setuptools.meta"
+build-backend = "setuptools.build_meta"
